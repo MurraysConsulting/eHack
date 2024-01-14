@@ -1,0 +1,4 @@
+Creating a list of items to refer to as potential libraries to borrow from.
+
+repo for OAuth to review:
+https://github.com/markbates/goth
