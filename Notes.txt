@@ -2,3 +2,7 @@ Creating a list of items to refer to as potential libraries to borrow from.
 
 repo for OAuth to review:
 https://github.com/markbates/goth
+
+https://github.com/morethancoder/hello_gotham
+
+https://github.com/morethancoder/new_gotham  -  may use this to kick off my build then update the html(x) to align to the design I am looking for.
